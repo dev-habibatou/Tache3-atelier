@@ -8,13 +8,13 @@ table{
 
 }
 h3{
-    color: red;
+    color: red;                         
 }
 td,th,thead{
     border: 1px solid;
     padding: 5px;
     text-align: center;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid gray;                                                                              
     border-right: 1px solid gray;
     border-bottom: 1px solid gray;
     
